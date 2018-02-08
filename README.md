@@ -1,0 +1,3 @@
+# LeetCode-JAVA
+
+LeetCode Solutions
